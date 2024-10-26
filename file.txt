@@ -1,0 +1,58 @@
+Bienvenue chez Djoona, votre application de réservation de tickets de car.
+
+Chez Djoona, nous nous engageons à protéger la confidentialité de nos utilisateurs tout en offrant un
+service transparent et efficace. Cette politique de confidentialité décrit les types de données que
+nous collectons, la manière dont nous les utilisons, ainsi que les droits de nos utilisateurs concernant
+leurs informations personnelles.
+
+1. Collecte des données personnelles
+Lorsque vous utilisez notre application pour réserver vos tickets de car, nous collectons certaines
+informations personnelles afin de faciliter votre expérience et vous offrir un service de qualité. Ces
+informations peuvent inclure :
+Informations de contact : Nom, adresse e-mail, numéro de téléphone.
+Détails de réservation : Date de voyage, itinéraire, compagnie de transport sélectionnée.
+Données de paiement : Informations de carte bancaire ou autres moyens de paiement, traitées via
+des prestataires de services sécurisés.
+
+2. Utilisation des données personnelles
+Les informations que nous collectons sont utilisées pour :
+Gérer les réservations : Confirmation, modification ou annulation de votre voyage.
+Améliorer nos services : Analyser l'utilisation de l'application afin d'optimiser l'expérience utilisateur.
+Communication avec les utilisateurs : Vous informer des modifications liées à votre réservation, des
+offres spéciales ou de toute autre information pertinente pour vos voyages.
+Nous ne partageons vos informations qu'avec les tiers nécessaires à l'exécution du service
+(compagnies de transport, prestataires de paiement) et uniquement dans le cadre des finalités pour
+lesquelles elles ont été collectées.
+
+3. Sécurité des données
+Nous utilisons des mesures de sécurité conformes aux normes de l'industrie pour protéger vos
+informations personnelles contre tout accès non autorisé, altération, divulgation ou destruction.
+
+4. Droit des utilisateurs
+Conformément aux lois en vigueur, vous disposez de droits sur vos données personnelles,
+notamment :
+
+Droit d’accès : Vous pouvez demander à consulter les informations que nous détenons sur vous.
+Droit de rectification : Vous pouvez demander à corriger toute information inexacte ou incomplète.
+Droit à l’effacement : Sous certaines conditions, vous pouvez demander la suppression de vos
+données.
+Pour exercer ces droits, vous pouvez nous contacter à l’adresse suivante :
+contact.données@djoona.com
+
+5. Politique d'annulation et de modification
+Chez Djoona, nous comprenons que des changements de dernière minute peuvent survenir. Nous
+offrons donc une flexibilité pour modifier ou annuler vos réservations.
+Modification gratuite : Vous pouvez modifier votre réservation sans frais jusqu'à 72 heures avant le
+départ prévu de votre voyage.
+Frais de modification tardive : Si vous effectuez une modification dans un délai inférieur à 72 heures
+avant le départ, des frais de 500 FCFA seront appliqués par ticket.
+Les billets en revanches sont non remboursables.
+
+6. Conservation des données
+Vos informations personnelles seront conservées aussi longtemps que nécessaire pour atteindre les
+finalités décrites dans cette politique de confidentialité, ou pour respecter nos obligations légales.
+
+7. Modifications de la politique de confidentialité
+Djoona se réserve le droit de modifier cette politique de confidentialité à tout moment. Toute
+modification sera publiée sur cette page, et nous vous en informerons par e-mail ou via l’application
+en cas de changements significatifs.
